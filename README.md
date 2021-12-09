@@ -4,3 +4,4 @@ bye..
 test..
 aaaa
 bbbb
+\n test
